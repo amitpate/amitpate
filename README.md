@@ -4,6 +4,8 @@ Founder & CTO @ [Orio](https://orio.games) — turning a plain-language prompt i
 
 Most of my shipping code is proprietary (company work) — so here's what you *can* dig into:
 
+> **Independently analysed by Paxel (YC)** across nine private repositories in 2026 — the engineering pattern read as **"The Architect"**: architecture-first, orchestrating multiple AI coding agents while holding the line on verification and product boundaries. [See the breakdown →](https://amitpate.github.io/#work)
+
 **How I build — write-ups**
 - [Deep Dive: Why Generative Video Is the Wrong Architecture for Game Dev](https://amitpate.substack.com/p/deep-dive-why-generative-video-is)
 - [2026: Dreams Just Got Physics — teaching generative 3D to obey physics & context](https://amitpate.substack.com/p/2026-dreams-just-got-physics)
