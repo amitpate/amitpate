@@ -6,7 +6,7 @@ Most of my shipping code is proprietary (company work) — so here's what you *c
 
 > **Independently analysed by Paxel (YC)** across nine private repositories in 2026 — the engineering pattern read as **"The Architect"**: architecture-first, orchestrating multiple AI coding agents while holding the line on verification and product boundaries. [See the breakdown →](https://amitpate.github.io/#work)
 
-<img src="https://amitpate.github.io/paxel-cards.svg" alt="Engineering profile — The Architect: 100% of sessions include architecture; Up to 7 AI coding agents orchestrated at once; ~600K lines and ~4,000 commits across 9 repos in 2026; GKE, Vertex and GPU cloud-AI infra; text to playable 3D with deterministic physics and real-time multiplayer" width="100%">
+<img src="https://amitpate.github.io/paxel-cards.svg?v=2" alt="Engineering profile — The Architect: 100% of sessions include architecture; Up to 7 AI coding agents orchestrated at once; ~600K lines and ~4,000 commits across 9 repos in 2026; GKE, Vertex and GPU cloud-AI infra; text to playable 3D with deterministic physics and real-time multiplayer" width="100%">
 
 **How I build — write-ups**
 - [Deep Dive: Why Generative Video Is the Wrong Architecture for Game Dev](https://amitpate.substack.com/p/deep-dive-why-generative-video-is)
