@@ -1,6 +1,6 @@
 ### Amit Pate — Generative AI for games, film & media
 
-Founder & CTO @ [Orio](https://orio.games) — turning a plain-language prompt into a playable, multiplayer 3D game in the browser. I build generative-AI systems into production for the people who make things: game creators, filmmakers, technical artists.
+Founder, CTO & Head of Product @ [Orio](https://orio.games) — turning a plain-language prompt into a playable, multiplayer 3D game in the browser. I build generative-AI systems into production for the people who make things: game creators, filmmakers, technical artists.
 
 Most of my shipping code is proprietary (company work) — so here's what you *can* dig into:
 
